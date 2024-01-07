@@ -15,7 +15,6 @@ var lowerCasedCharacters = [
 var upperCasedCharacters = [
   'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
 ];
-
 // Function to prompt user for password options
 function getPasswordOptions() {
   // Prompt for the length of the password
