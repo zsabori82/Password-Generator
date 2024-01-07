@@ -79,9 +79,8 @@ You are required to submit the following for review:
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
 ..............................................................................
 # steps that has been taken
-
+This README provides a quick overview of how to use the password generator, its features, and the structure of the code. It also encourages users to feel free to use and modify the generator for their own projects.
 # Password Generator
-
 This simple password generator allows users to specify password criteria, including length and character types, and generates a secure password accordingly. The generator ensures that at least one character from each selected type is included in the final password.
 
 ## Usage
@@ -94,13 +93,11 @@ This simple password generator allows users to specify password criteria, includ
 4. After answering prompts, the generated password will be displayed on the page.
 
 ## Features
-
 - Password length validation: Ensures the entered length is within the specified range.
 - Character type validation: Requires at least one character type to be selected.
 - Secure password generation: Generates a password meeting user-specified criteria.
 
 ## Code Structure
-
 - `getPasswordOptions`: Function to prompt the user for password criteria.
 - `getRandom`: Function to get a random element from an array.
 - `generatePassword`: Function to generate a password based on user choices.
